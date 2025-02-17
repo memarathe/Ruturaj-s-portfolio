@@ -10,7 +10,7 @@ export default function Home() {
     <>
       <div>
         <Head>
-          <title>Ruturaj Marathe&apos;s Portfolio</title>
+          <title>Ruturaj Marathe's Portfolio</title>
           <meta
             property="og:description"
             content="Ruturaj Marathe is a software engineer who develops high quality, 
