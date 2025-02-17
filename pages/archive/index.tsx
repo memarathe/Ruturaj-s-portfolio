@@ -570,7 +570,7 @@ const Archive = () => {
                   <div>
                     <div className="block sm:hidden">
                       <span>
-                        Engineer's Placement - Android App
+                        Engineers Placement - Android App
                         <span className="inline-block">
                           <svg
                             xmlns="http://www.w3.org/2000/svg"
@@ -588,7 +588,7 @@ const Archive = () => {
                         </span>
                       </span>
                     </div>
-                    <div className="hidden sm:block">Engineer's Placement - Android App</div>
+                    <div className="hidden sm:block">Engineers Placement - Android App</div>
                   </div>
                 </td>
                 <td className="hidden py-4 pl-6 pr-4 align-top text-sm lg:table-cell">

@@ -70,7 +70,7 @@ const Experience = () => {
                   </h3>
                   <div className="mt-2 text-sm leading-normal text-justify">
                     <div className="mt-2 text-sm leading-normal text-justify">
-                      As a part of Intel's Infrastructure Processing Unit, I
+                      As a part of Intel&apos;s Infrastructure Processing Unit, I
                       <ul>
                         <li>1. Presented research papers to the executive team on how machine learning solutions streamline and bring agility to the pre-silicon verification process.</li>
                         <li>2. Developed Python automation scripts to triage bugs, verify descriptions, and generate regex patterns for greycode bus identification, reducing manual coding by 50%.</li>

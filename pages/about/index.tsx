@@ -12,7 +12,7 @@ const About = () => {
       </div>
       <div>
         <p className="mb-4 text-justify">
-        With a Master’s in Computer Science from {" "}
+        With a Master&apos;s in Computer Science from {" "}
           <a
             className="font-medium text-slate-200 hover:text-teal-300 focus-visible:text-teal-300"
             href="https://luddy.indiana.edu/index.html"
@@ -23,7 +23,7 @@ const About = () => {
           </a>
           and a work experience of 3 years as a software engineer, my journey reflects a deep passion for technology 
           and continuous learning. Proficient in Linux and Android based infotainment development, Optimizing Database systems 
-          and building Machine Learning workflows, I'm ready to join your team and build software solutions rapidly.
+          and building Machine Learning workflows, I&apos;m ready to join your team and build software solutions rapidly.
         </p>
         <p className="mb-4">
         As a sportsman and composed individual, I bring a disciplined approach to problem-solving, 
