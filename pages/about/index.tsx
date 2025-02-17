@@ -30,7 +30,7 @@ const About = () => {
         ensuring tasks are tackled with precision and efficiency. 
         Whether leading a team or collaborating with others, my affable nature and commitment to 
         finding solutions foster an environment where innovation thrives. 
-        Let's connect and explore how I can apply my versatile experience at your team. Open to <b className="font-medium text-slate-200">full-time</b> or <b className="font-medium text-slate-200">contract</b> roles where I can make a
+        Let&apos;s connect and explore how I can apply my versatile experience at your team. Open to <b className="font-medium text-slate-200">full-time</b> or <b className="font-medium text-slate-200">contract</b> roles where I can make a
         difference, grow, and keep evolving.
         </p>{" "}
         <p className="mb-4 text-justify">
