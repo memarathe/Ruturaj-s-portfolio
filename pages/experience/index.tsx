@@ -72,7 +72,7 @@ const Experience = () => {
                     <div className="mt-2 text-sm leading-normal text-justify">
                       As a part of Intel&apos;s Infrastructure Processing Unit, I
                       <ul>
-                        <li>1. Presented research papers to the executive team on how machine learning solutions streamline and bring agility to the pre-silicon verification process.</li>
+                        <li>1. Presented research papers to the executive team on how machine learning solutions can streamline and bring agility to the pre-silicon verification process.</li>
                         <li>2. Developed Python automation scripts to triage bugs, verify descriptions, and generate regex patterns for greycode bus identification, reducing manual coding by 50%.</li>
                         <li>3. Built a PowerBI dashboard for system health monitoring by performing ETL on multiple raw data sources.</li>
                         <li>4. Implemented machine learning workflows to cluster caliber reports and auto-generate bucket files for chip design synthesis.</li>
