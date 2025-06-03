@@ -143,7 +143,7 @@ const Experience = () => {
                     <div>
                       <a
                         className="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-teal-300 focus-visible:text-teal-300  group/link text-base"
-                        href="https://www.intel.com/content/www/us/en/products/details/network-io/ipu.html"
+                        href="https://luddy.indiana.edu/index.html"
                         target="_blank"
                         rel="noreferrer"
                         aria-label="Systems Programming Assistant Instructor"
