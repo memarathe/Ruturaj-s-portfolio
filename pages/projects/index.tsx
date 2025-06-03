@@ -23,14 +23,14 @@ const Project = () => {
                   <h3>
                     <a
                       className="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-teal-300 focus-visible:text-teal-300  group/link text-base"
-                      href="https://github.com/memarathe/NLP-sentiment-analysis-of-Amazon-customer-reviews-"
+                      href="https://github.com/memarathe/DoctorAssist.ai"
                       target="_blank"
                       rel="noreferrer"
-                      aria-label="NLP Sentiment analysis of Amazon reviews"
+                      aria-label="DoctorAssist.ai"
                     >
                       <span className="absolute -inset-x-4 -inset-y-2.5 hidden rounded md:-inset-x-6 md:-inset-y-4 lg:block"></span>
                       <span>
-                      NLP Sentiment Analysis - Amazon customer reviews
+                      DoctorAssist.ai - Text-to-SQL GenAI solution
                         <span className="inline-block">
                           <svg
                             xmlns="http://www.w3.org/2000/svg"
@@ -50,11 +50,9 @@ const Project = () => {
                     </a>
                   </h3>
                   <p className="mt-2 text-sm leading-normal text-justify">
-                  Sentiment analysis of Amazon product reviews involves analyzing customer 
-                  feedback to determine the underlying sentiment—whether the review is positive, 
-                  negative, or neutral. This process helps businesses and consumers understand 
-                  the general opinion about a product based on user-generated content.
-                  <b> ML, Natural Language Processing, Data Analysis.</b>
+                  Developed a domain-specific text-to-SQL model using the MIMIC-IV Demo database to enable healthcare professionals to query patient data using plain English. 
+                  The system accurately translates medical questions into SQL, covering areas like patient demographics, vital signs, and survival rates. 
+                  It also intelligently identifies unanswerable or out-of-scope queries, enhancing usability and reliability in clinical settings.
                   </p>
                 </div>
                 <Image
@@ -66,7 +64,7 @@ const Project = () => {
                   data-nimg="1"
                   className="rounded transition group-hover:border-slate-200/30 sm:order-1 sm:col-span-2 sm:translate-y-1"
                   style={{ color: "transparent" }}
-                  src={"/images/projects/marketting-workflow.webp"}
+                  src={"/images/projects/artificial-intelligence.webp"}
                 />
               </div>
             </li>

@@ -27,9 +27,8 @@ const Header = () => {
           </h2>
           <i> United States </i>
           <p className="mt-2 lg:max-w-sm leading-relaxed text-justify">
-          I am a software engineer who develops high quality, 
-          clean and robust solutions. Experienced software Engineer, 
-          exploring Machine Learning & AI, Cloud technologies.
+          A Developer who is inspired by the dynamic enhancements of Cloud, AI and Databases.
+          I enjoy building software from scratch, designing innovative solutions as well as automating any repitative tasks I come across.
           </p>
 
           <div className="mt-4 max-w-xs flex gap-4">

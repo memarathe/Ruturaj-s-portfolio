@@ -21,18 +21,10 @@ const About = () => {
           >
           Indiana University Bloomington {" "}
           </a>
-          and a work experience of 3 years as a software engineer, my journey reflects a deep passion for technology 
-          and continuous learning. Proficient in Linux and Android based infotainment development, Optimizing Database systems 
-          and building Machine Learning workflows, I&apos;m ready to join your team and build software solutions rapidly.
+          and a work experience of 2 years as a software engineer, my journey reflects a deep passion for technology 
+          and continuous learning. Proficient in Backend software development, optimizing Database systems 
+          and building Machine Learning workflows, I&apos;m ready to join your team and build softwre that helps the society.
         </p>
-        <p className="mb-4">
-        As a sportsman and composed individual, I bring a disciplined approach to problem-solving, 
-        ensuring tasks are tackled with precision and efficiency. 
-        Whether leading a team or collaborating with others, my affable nature and commitment to 
-        finding solutions foster an environment where innovation thrives. 
-        Let&apos;s connect and explore how I can apply my versatile experience at your team. Open to <b className="font-medium text-slate-200">full-time</b> or <b className="font-medium text-slate-200">contract</b> roles where I can make a
-        difference, grow, and keep evolving.
-        </p>{" "}
         <p className="mb-4 text-justify">
           {" "}
           

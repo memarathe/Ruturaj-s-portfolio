@@ -122,6 +122,104 @@ const Experience = () => {
               <div className="group relative grid pb-1 transition-all sm:grid-cols-8 sm:gap-8 md:gap-4 lg:hover:!opacity-100 lg:group-hover/list:opacity-50">
                 <div className="absolute -inset-x-4 -inset-y-4 z-0 hidden rounded-md transition motion-reduce:transition-none lg:-inset-x-6 lg:block lg:group-hover:bg-slate-800/50 lg:group-hover:shadow-[inset_0_1px_0_0_rgba(148,163,184,0.1)] lg:group-hover:drop-shadow-lg"></div>
                 <div className="z-10 mb-2 mt-1 text-xs font-semibold uppercase tracking-wide text-slate-500 sm:col-span-2">
+                  <header aria-label="Jan 2025 to May 2025">
+                    Jan 2025 — May 2025
+                  </header>
+
+                  <Image
+                    alt=""
+                    loading="lazy"
+                    width="200"
+                    height="48"
+                    decoding="async"
+                    data-nimg="1"
+                    className="rounded transition group-hover:border-slate-200/30 sm:order-1 sm:col-span-2 sm:translate-y-1"
+                    style={{ color: "transparent" }}
+                    src={"/images/educations/IU.png"}
+                  />
+                </div>
+                <div className="z-10 sm:col-span-6">
+                  <h3 className="font-medium leading-snug text-slate-200">
+                    <div>
+                      <a
+                        className="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-teal-300 focus-visible:text-teal-300  group/link text-base"
+                        href="https://www.intel.com/content/www/us/en/products/details/network-io/ipu.html"
+                        target="_blank"
+                        rel="noreferrer"
+                        aria-label="Systems Programming Assistant Instructor"
+                      >
+                        <span className="absolute -inset-x-4 -inset-y-2.5 hidden rounded md:-inset-x-6 md:-inset-y-4 lg:block"></span>
+                        <span>
+                          Systems Programming Assistant Instructor {" . "}
+                          <span className="inline-block">
+                            Indiana University{" "}
+                            <svg
+                              xmlns="http://www.w3.org/2000/svg"
+                              viewBox="0 0 20 20"
+                              fill="currentColor"
+                              className="inline-block h-4 w-4 shrink-0 transition-transform group-hover/link:-translate-y-1 group-hover/link:translate-x-1 group-focus-visible/link:-translate-y-1 group-focus-visible/link:translate-x-1 motion-reduce:transition-none ml-1 translate-y-px"
+                              aria-hidden="true"
+                            >
+                              <path
+                                fillRule="evenodd"
+                                d="M5.22 14.78a.75.75 0 001.06 0l7.22-7.22v5.69a.75.75 0 001.5 0v-7.5a.75.75 0 00-.75-.75h-7.5a.75.75 0 000 1.5h5.69l-7.22 7.22a.75.75 0 000 1.06z"
+                                clipRule="evenodd"
+                              ></path>
+                            </svg>
+                          </span>
+                        </span>
+                      </a>
+                    </div>
+                  </h3>
+                  <div className="mt-2 text-sm leading-normal text-justify">
+                    <div className="mt-2 text-sm leading-normal text-justify">
+                      As an Assistant Instructor for systems programming, I
+                      <ul>
+                        <li>1. Managed and organized course materials on Canvas for a class of 35 students, ensuring 100% access to up-to-date lecture notes, assignments, and resources throughout the semester.</li>
+                        <li>2. Developed 10 programming assignments that closely aligned with course objectives, helping students strengthen their technical skills in C, Unix system calls, and process management.</li>
+                        <li>3. Conducted 6+ live Q&amp;A sessions and provided consistent email support, which helped reduce recurring doubts and improved average assignment scores by over 15% compared to earlier weeks.</li>
+                        <li>4. Guided students in using Git for version control, ensuring that over 90% of students submitted assignments using structured branching and commit practices—building real-world collaborative coding habits.</li>
+                        <li>5. Motivated students through timely feedback and support, contributing to a 95% course completion rate and fostering a positive learning environment that encouraged independent debugging and deeper exploration of course concepts.</li>
+                      </ul>
+                    </div>
+                  </div>
+                  <ul
+                    className="mt-2 flex flex-wrap"
+                    aria-label="Technologies used"
+                  >
+                    <li className="mr-1.5 mt-2">
+                      <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
+                        Github Version Control
+                      </div>
+                    </li>
+                    <li className="mr-1.5 mt-2">
+                      <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
+                        C programming
+                      </div>
+                    </li>
+                    <li className="mr-1.5 mt-2">
+                      <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
+                        Linux
+                      </div>
+                    </li>
+                    <li className="mr-1.5 mt-2">
+                      <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
+                        Knowledge Tansfer
+                      </div>
+                    </li>
+                    <li className="mr-1.5 mt-2">
+                      <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
+                        Software Documentation
+                      </div>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </li>
+            <li className="mb-12">
+              <div className="group relative grid pb-1 transition-all sm:grid-cols-8 sm:gap-8 md:gap-4 lg:hover:!opacity-100 lg:group-hover/list:opacity-50">
+                <div className="absolute -inset-x-4 -inset-y-4 z-0 hidden rounded-md transition motion-reduce:transition-none lg:-inset-x-6 lg:block lg:group-hover:bg-slate-800/50 lg:group-hover:shadow-[inset_0_1px_0_0_rgba(148,163,184,0.1)] lg:group-hover:drop-shadow-lg"></div>
+                <div className="z-10 mb-2 mt-1 text-xs font-semibold uppercase tracking-wide text-slate-500 sm:col-span-2">
                   <header aria-label="2021 to 2023">
                     January 2021 — July 2023
                   </header>

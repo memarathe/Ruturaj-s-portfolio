@@ -13,9 +13,8 @@ export default function Home() {
           <title>Ruturaj Marathe&apos;s Portfolio</title>
           <meta
             property="og:description"
-            content="Ruturaj Marathe is a software engineer who develops high quality, 
-            clean and robust software solutions. An assertive developer easy to collaborate with,
-            takes ownership of the task at hand and delivers impacting results."
+            content="Software Engineer who is inspired by the rapid developments of Cloud, AI and Databases.
+            I enjoy building software from scratch, designing innovative solutions as well as automating any repitative tasks I come across."
           />
           <meta property="og:image" content="/images/Thumbnail.jpeg" />
           <meta property="og:image:type" content="image/jpeg" />
