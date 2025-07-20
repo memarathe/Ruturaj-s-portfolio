@@ -23,7 +23,7 @@ const Header = () => {
             </ScrollLink>
           </h1>
           <h2 className="mt-3 text-lg font-medium tracking-tight text-slate-200 sm:text-xl">
-            Software Engineer
+            Software Engineer / Data Engineer
           </h2>
           <i> United States </i>
           <p className="mt-2 lg:max-w-sm leading-relaxed text-justify">
