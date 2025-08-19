@@ -20,7 +20,7 @@ const Experience = () => {
                 <div className="absolute -inset-x-4 -inset-y-4 z-0 hidden rounded-md transition motion-reduce:transition-none lg:-inset-x-6 lg:block lg:group-hover:bg-slate-800/50 lg:group-hover:shadow-[inset_0_1px_0_0_rgba(148,163,184,0.1)] lg:group-hover:drop-shadow-lg"></div>
                 <div className="z-10 mb-2 mt-1 text-xs font-semibold uppercase tracking-wide text-slate-500 sm:col-span-2">
                   <header aria-label="2025 to 2025">
-                    June 2025 — August 2025
+                    June 2025 — Present
                   </header>
                   <Image
                     alt=""
@@ -42,11 +42,11 @@ const Experience = () => {
                         href="https://www.visteon.com/products-technology/technology/default.aspx"
                         target="_blank"
                         rel="noreferrer"
-                        aria-label="Application Management Intern at Visteon Corporation"
+                        aria-label="Application Management Engineer at Visteon Corporation"
                       >
                         <span className="absolute -inset-x-4 -inset-y-2.5 hidden rounded md:-inset-x-6 md:-inset-y-4 lg:block"></span>
                         <span>
-                          Application Management Intern {" . "}
+                          Application Management Engineer {" . "}
                           <span className="inline-block">
                             Visteon Corporation{" "}
                             <svg
@@ -112,7 +112,7 @@ const Experience = () => {
                     </li>
                     <li className="mr-1.5 mt-2">
                       <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
-                        Entreprise Engineereing Application
+                        Enterprise Engineering Application
                       </div>
                     </li>
                     <li className="mr-1.5 mt-2">
@@ -156,7 +156,7 @@ const Experience = () => {
                       >
                         <span className="absolute -inset-x-4 -inset-y-2.5 hidden rounded md:-inset-x-6 md:-inset-y-4 lg:block"></span>
                         <span>
-                          Software Graduate Intern {" . "}
+                          Software Engineer Intern {" . "}
                           <span className="inline-block">
                             Intel Corporation{" "}
                             <svg
@@ -215,7 +215,7 @@ const Experience = () => {
                     </li>
                     <li className="mr-1.5 mt-2">
                       <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
-                        Data Engineering
+                        Automation
                       </div>
                     </li>
                     <li className="mr-1.5 mt-2">
@@ -356,7 +356,7 @@ const Experience = () => {
                       >
                         <span className="absolute -inset-x-4 -inset-y-2.5 hidden rounded md:-inset-x-6 md:-inset-y-4 lg:block"></span>
                         <span>
-                          Software Engineer {" . "}
+                          Software Engineer 2{" . "}
                           <span className="inline-block">
                             Visteon Corporation{" "}
                             <svg
