@@ -70,8 +70,8 @@ const Experience = () => {
                   <div className="mt-2 text-sm leading-normal text-justify">                
                     <h3 className="font-bold">Project: AI Innovation</h3>
                     <ul>
-                      <li>Automated large-scale data acquisition with Selenium, transforming fragmented supplier and market data into structured training sets that fuel predictive machine learning models and enhance model accuracy.</li>
-                      <li>Building Generative AI applications that reshape cost strategy analysis and drive innovation in the automotive domain, advancing both IT infrastructure and next-generation vehicle software systems.</li>
+                      <li>1. Automated large-scale data acquisition with Selenium, transforming fragmented supplier and market data into structured training sets that fuel predictive machine learning models and enhance model accuracy.</li>
+                      <li>2. Building Generative AI applications that reshape cost strategy analysis and drive innovation in the automotive domain, advancing both IT infrastructure and next-generation vehicle software systems.</li>
                     </ul>
                   </div>
                   <ul
