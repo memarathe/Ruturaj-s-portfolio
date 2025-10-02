@@ -21,7 +21,7 @@ const About = () => {
           >
           Indiana University Bloomington {" "}
           </a>
-          and a work experience of 2 years as a software engineer, my journey reflects a deep passion for technology 
+          and a work experience of 3 years as a software engineer, my journey reflects a deep passion for technology 
           and continuous learning. Proficient in Backend software development, optimizing Database systems 
           and building Machine Learning workflows, I&apos;m ready to join your team and build software that helps the society.
         </p>
